@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Khushi Mhasange",
 	"description":"Learning package.json",
-	"keywords": ["Learn","freeCodeCamp"],
+	"keywords": ["Learn","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
